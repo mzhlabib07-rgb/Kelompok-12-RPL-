@@ -567,7 +567,7 @@
         <mxCell id="HJNL5wVA5p7nqDhdksxW-0" parent="v_JzcmrJnrr5d0ranBvD-1" style="swimlane;startSize=155;labelBorderColor=none;fontSize=125;strokeWidth=2;strokeColor=default;labelBackgroundColor=#F7FF1D;defaultLabelBackgroundColor=page;" value=" " vertex="1">
           <mxGeometry height="2680" width="1358" x="-45" y="-4866" as="geometry" />
         </mxCell>
-        <mxCell id="HJNL5wVA5p7nqDhdksxW-1" parent="HJNL5wVA5p7nqDhdksxW-0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=100;fontFamily=Helvetica;labelBackgroundColor=none;fontStyle=1" value="Sistem" vertex="1">
+        <mxCell id="HJNL5wVA5p7nqDhdksxW-1" parent="HJNL5wVA5p7nqDhdksxW-0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=100;fontFamily=Helvetica;labelBackgroundColor=none;fontStyle=1" value="Pelanggan" vertex="1">
           <mxGeometry height="73" width="554" x="484" y="46" as="geometry" />
         </mxCell>
         <mxCell id="FvN5bUgwVJGo2XN4YxM6-1" parent="HJNL5wVA5p7nqDhdksxW-0" style="whiteSpace=wrap;html=1;" value="" vertex="1">
